@@ -3,7 +3,9 @@
 # The psyliq internship consists of 3 projects namely:
 
 1.The employee data analysis project
+
 2.The Diabetes Prediction project
+
 3.HR Data Analytics project
 
 ## Tools Used : MS Excel, POWERBI, SQL
